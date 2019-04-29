@@ -8,5 +8,6 @@
 </head>
 <body>
     <div class="container"></div>
+    <div class="container-fluid"></div> <!--Added  by Project Manager-->
 </body>
 </html>
